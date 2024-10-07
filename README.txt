@@ -8,7 +8,7 @@ To run the projects
 		
 5. If your docker has stopped then you have to create new realm by going to http://localhost:8181/admin/master/console
    login with admin/admin.
-6. Clients -> Add realm -> name it "spring-boot-microservices-realm" (Follow this quicky https://www.youtube.com/watch?v=rbKzR6QWKLI&list=PLSVW22jAG8pBnhAdq9S8BpLnZ0_jVBj0c&index=6)
+6. Clients -> Add realm -> name it "spring-boot-microservices-realm"
 
 7. We have created docker-compose.yml file to run it to create its image in container run this command on cmd promopt on same location as file
 docker compose up -d
